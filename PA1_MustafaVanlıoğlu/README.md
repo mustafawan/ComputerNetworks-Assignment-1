@@ -1,1 +1,0 @@
-This project is a mini weather prediction game developed for Computer Networks course. It demonstrates client-server communication using Python sockets with tolerance-based validation and disconnection handling.
