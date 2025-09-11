@@ -108,7 +108,3 @@ Assignment1/
 - **openpyxl** – Handling Excel data (`weathers.xlsx`)  
 
 ---
-
-## 🎓 Note
-This project was developed as part of **CMPE 472 – Computer Networks** course at university.  
-It serves as a practical demonstration of socket programming concepts.  
